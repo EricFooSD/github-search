@@ -13,7 +13,9 @@ Search categories:
 ## Stack
 
 Frontend > React.js, MUI
+
 Backend > Node.js, Express server
+
 Webpack compiler
 
 ## How to set up
