@@ -26,11 +26,15 @@ Webpack compiler
 3. Create a github access token https://github.com/settings/tokens. [Read-access should be sufficient]
    https://www.youtube.com/watch?v=5Pvo-yzCX1w
 
-4. Create a file ".env" in root folder of cloned repo. In .env file insert GITHUB_TOKEN="[Your Personal Token Here]". Replace your personal github access token.
+4. In .env file replace with your personal github access token.
+![Screenshot 2022-10-20 at 1 25 29 PM](https://user-images.githubusercontent.com/86565793/196863656-9deea2a6-c958-4354-82a8-4cb1fc6aaddb.png)
 
 5. Run script to compile. In terminal run command : " nodemon index.mjs "
 
 6. When compiled, hit http://localhost:3004/
+
+
+## Demo
 
 Homepage
 <img width="980" alt="Screenshot 2022-10-20 at 1 05 00 PM" src="https://user-images.githubusercontent.com/86565793/196861521-992ae3c3-c191-4250-9eed-a1193c7114af.png">
