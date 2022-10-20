@@ -27,7 +27,8 @@ Webpack compiler
    https://www.youtube.com/watch?v=5Pvo-yzCX1w
 
 4. In .env file replace with your personal github access token.
-![Screenshot 2022-10-20 at 1 25 29 PM](https://user-images.githubusercontent.com/86565793/196863656-9deea2a6-c958-4354-82a8-4cb1fc6aaddb.png)
+![Screenshot 2022-10-20 at 2 33 19 PM](https://user-images.githubusercontent.com/86565793/196873435-4623ce92-5a0b-4e91-b577-5cd394cc777f.png)
+
 
 5. Run script to compile. In terminal run command : " nodemon index.mjs "
 
