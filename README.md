@@ -22,9 +22,9 @@ Webpack compiler
 
 1. Git clone repo
 
-2. npm install for node module. in terminal run command :  " npm install "
+2. Install node modules. in terminal run command :  " npm install "
 
-3. edit .env file with githubt token access code https://github.com/settings/tokens. [Read-access should be sufficient] 
+3. Edit .env file with githubt token access code https://github.com/settings/tokens. [Read-access should be sufficient] 
 https://www.youtube.com/watch?v=5Pvo-yzCX1w
 
 4. Run script to compile. In terminal run command :  " nodemon index.mjs "
